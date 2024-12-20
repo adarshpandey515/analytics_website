@@ -1,0 +1,101 @@
+Product,Size,Location,Total Sale,Quantity,Payment Method,Date
+Cement Brick,Medium,Delhi,37135,1154,Cash,2023-01-01
+Clay Brick,Large,Mumbai,51133,1027,Card,2023-01-02
+Fly Ash Brick,Small,Bangalore,30963,1456,Online,2023-01-03
+Concrete Brick,Large,Kolkata,23336,1428,Cash,2023-01-04
+Refractory Brick,Small,Chennai,59861,713,Card,2023-01-05
+Cement Brick,Medium,Delhi,25798,899,Cash,2023-01-06
+Clay Brick,Large,Mumbai,39754,1148,Card,2023-01-07
+Fly Ash Brick,Small,Bangalore,39655,699,Online,2023-01-08
+Concrete Brick,Large,Kolkata,18639,722,Cash,2023-01-09
+Refractory Brick,Small,Chennai,40038,554,Card,2023-01-10
+Cement Brick,Medium,Delhi,28354,1452,Cash,2023-01-11
+Clay Brick,Large,Mumbai,51485,1155,Card,2023-01-12
+Fly Ash Brick,Small,Bangalore,44616,1202,Online,2023-01-13
+Concrete Brick,Large,Kolkata,50595,992,Cash,2023-01-14
+Refractory Brick,Small,Chennai,53681,555,Card,2023-01-15
+Cement Brick,Medium,Delhi,15381,1311,Cash,2023-01-16
+Clay Brick,Large,Mumbai,36890,1404,Card,2023-01-17
+Fly Ash Brick,Small,Bangalore,53170,593,Online,2023-01-18
+Concrete Brick,Large,Kolkata,48880,1134,Cash,2023-01-19
+Refractory Brick,Small,Chennai,55658,1011,Card,2023-01-20
+Cement Brick,Medium,Delhi,15887,515,Cash,2023-01-21
+Clay Brick,Large,Mumbai,25475,373,Card,2023-01-22
+Fly Ash Brick,Small,Bangalore,37046,466,Online,2023-01-23
+Concrete Brick,Large,Kolkata,24302,984,Cash,2023-01-24
+Refractory Brick,Small,Chennai,26618,386,Card,2023-01-25
+Cement Brick,Medium,Delhi,54912,1383,Cash,2023-01-26
+Clay Brick,Large,Mumbai,33028,924,Card,2023-01-27
+Fly Ash Brick,Small,Bangalore,42178,937,Online,2023-01-28
+Concrete Brick,Large,Kolkata,26980,646,Cash,2023-01-29
+Refractory Brick,Small,Chennai,31536,1213,Card,2023-01-30
+Cement Brick,Medium,Delhi,53586,724,Cash,2023-01-31
+Clay Brick,Large,Mumbai,50342,719,Card,2023-02-01
+Fly Ash Brick,Small,Bangalore,20120,1309,Online,2023-02-02
+Concrete Brick,Large,Kolkata,45878,1185,Cash,2023-02-03
+Refractory Brick,Small,Chennai,23164,1463,Card,2023-02-04
+Cement Brick,Medium,Delhi,37253,1013,Cash,2023-02-05
+Clay Brick,Large,Mumbai,22941,1296,Card,2023-02-06
+Fly Ash Brick,Small,Bangalore,56631,905,Online,2023-02-07
+Concrete Brick,Large,Kolkata,27228,411,Cash,2023-02-08
+Refractory Brick,Small,Chennai,57489,938,Card,2023-02-09
+Cement Brick,Medium,Delhi,15693,300,Cash,2023-02-10
+Clay Brick,Large,Mumbai,42756,597,Card,2023-02-11
+Fly Ash Brick,Small,Bangalore,30308,412,Online,2023-02-12
+Concrete Brick,Large,Kolkata,59302,588,Cash,2023-02-13
+Refractory Brick,Small,Chennai,31265,972,Card,2023-02-14
+Cement Brick,Medium,Delhi,18849,1119,Cash,2023-02-15
+Clay Brick,Large,Mumbai,51898,436,Card,2023-02-16
+Fly Ash Brick,Small,Bangalore,56290,1195,Online,2023-02-17
+Concrete Brick,Large,Kolkata,25768,1460,Cash,2023-02-18
+Refractory Brick,Small,Chennai,25526,884,Card,2023-02-19
+Cement Brick,Medium,Delhi,33111,1014,Cash,2023-02-20
+Clay Brick,Large,Mumbai,35791,1144,Card,2023-02-21
+Fly Ash Brick,Small,Bangalore,58445,301,Online,2023-02-22
+Concrete Brick,Large,Kolkata,37062,1421,Cash,2023-02-23
+Refractory Brick,Small,Chennai,26640,466,Card,2023-02-24
+Cement Brick,Medium,Delhi,41040,1111,Cash,2023-02-25
+Clay Brick,Large,Mumbai,50951,819,Card,2023-02-26
+Fly Ash Brick,Small,Bangalore,39601,878,Online,2023-02-27
+Concrete Brick,Large,Kolkata,41491,353,Cash,2023-02-28
+Refractory Brick,Small,Chennai,28203,1313,Card,2023-03-01
+Cement Brick,Medium,Delhi,45844,1044,Cash,2023-03-02
+Clay Brick,Large,Mumbai,33415,1366,Card,2023-03-03
+Fly Ash Brick,Small,Bangalore,35026,1013,Online,2023-03-04
+Concrete Brick,Large,Kolkata,49231,944,Cash,2023-03-05
+Refractory Brick,Small,Chennai,53896,1392,Card,2023-03-06
+Cement Brick,Medium,Delhi,35604,741,Cash,2023-03-07
+Clay Brick,Large,Mumbai,35663,1159,Card,2023-03-08
+Fly Ash Brick,Small,Bangalore,47698,514,Online,2023-03-09
+Concrete Brick,Large,Kolkata,22378,1393,Cash,2023-03-10
+Refractory Brick,Small,Chennai,17920,488,Card,2023-03-11
+Cement Brick,Medium,Delhi,42380,1121,Cash,2023-03-12
+Clay Brick,Large,Mumbai,30080,721,Card,2023-03-13
+Fly Ash Brick,Small,Bangalore,25862,425,Online,2023-03-14
+Concrete Brick,Large,Kolkata,18565,1228,Cash,2023-03-15
+Refractory Brick,Small,Chennai,45978,573,Card,2023-03-16
+Cement Brick,Medium,Delhi,34740,1426,Cash,2023-03-17
+Clay Brick,Large,Mumbai,20036,507,Card,2023-03-18
+Fly Ash Brick,Small,Bangalore,56080,1217,Online,2023-03-19
+Concrete Brick,Large,Kolkata,33258,1213,Cash,2023-03-20
+Refractory Brick,Small,Chennai,42790,1044,Card,2023-03-21
+Cement Brick,Medium,Delhi,33630,745,Cash,2023-03-22
+Clay Brick,Large,Mumbai,50268,1036,Card,2023-03-23
+Fly Ash Brick,Small,Bangalore,20231,715,Online,2023-03-24
+Concrete Brick,Large,Kolkata,15765,788,Cash,2023-03-25
+Refractory Brick,Small,Chennai,40162,731,Card,2023-03-26
+Cement Brick,Medium,Delhi,34756,1185,Cash,2023-03-27
+Clay Brick,Large,Mumbai,46737,806,Card,2023-03-28
+Fly Ash Brick,Small,Bangalore,21369,402,Online,2023-03-29
+Concrete Brick,Large,Kolkata,58900,1073,Cash,2023-03-30
+Refractory Brick,Small,Chennai,15291,463,Card,2023-03-31
+Cement Brick,Medium,Delhi,38753,1225,Cash,2023-04-01
+Clay Brick,Large,Mumbai,15313,362,Card,2023-04-02
+Fly Ash Brick,Small,Bangalore,46651,988,Online,2023-04-03
+Concrete Brick,Large,Kolkata,51535,604,Cash,2023-04-04
+Refractory Brick,Small,Chennai,37655,308,Card,2023-04-05
+Cement Brick,Medium,Delhi,39452,1205,Cash,2023-04-06
+Clay Brick,Large,Mumbai,59498,457,Card,2023-04-07
+Fly Ash Brick,Small,Bangalore,49003,1076,Online,2023-04-08
+Concrete Brick,Large,Kolkata,54971,1446,Cash,2023-04-09
+Refractory Brick,Small,Chennai,29462,925,Card,2023-04-10

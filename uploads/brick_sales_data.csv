@@ -1,0 +1,51 @@
+Order ID,Customer ID,Order Date,Location,Brick Type,Brick Size,Quantity,Unit Price,Total Sale,Payment Method,Sale Channel,Customer Type,Order Time
+1,C001,2024-01-01,Mumbai,Clay Brick,Standard,500,12,6000,Credit,Online,Residential,Morning
+2,C002,2024-01-03,Delhi,Cement Brick,Large,1000,15,15000,Cash,Physical,Commercial,Afternoon
+3,C003,2024-01-05,Bangalore,Fly Ash Brick,Medium,700,8,5600,Online,Distributor,Residential,Evening
+4,C004,2024-01-06,Kolkata,Clay Brick,Small,1200,10,12000,Credit,Physical,Commercial,Morning
+5,C005,2024-01-07,Hyderabad,Cement Brick,Medium,800,14,11200,Cash,Online,Wholesale,Afternoon
+6,C006,2024-01-08,Chennai,Fly Ash Brick,Large,500,9,4500,Credit,Physical,Residential,Evening
+7,C007,2024-01-10,Delhi,Clay Brick,Medium,900,11,9900,Cash,Distributor,Commercial,Morning
+8,C008,2024-01-11,Jaipur,Cement Brick,Small,1100,13,14300,Online,Physical,Residential,Afternoon
+9,C009,2024-01-12,Mumbai,Fly Ash Brick,Standard,600,7,4200,Credit,Online,Wholesale,Evening
+10,C010,2024-01-14,Bangalore,Clay Brick,Large,300,12,3600,Cash,Physical,Commercial,Morning
+11,C011,2024-01-15,Kolkata,Cement Brick,Large,1000,15,15000,Online,Distributor,Residential,Afternoon
+12,C012,2024-01-17,Hyderabad,Fly Ash Brick,Medium,700,8,5600,Credit,Online,Commercial,Evening
+13,C013,2024-01-18,Chennai,Clay Brick,Medium,800,10,8000,Cash,Physical,Residential,Morning
+14,C014,2024-01-20,Delhi,Cement Brick,Small,1200,14,16800,Credit,Distributor,Wholesale,Afternoon
+15,C015,2024-01-22,Mumbai,Fly Ash Brick,Large,300,9,2700,Cash,Online,Residential,Evening
+16,C016,2024-02-01,Bangalore,Clay Brick,Small,1000,10,10000,Credit,Online,Commercial,Morning
+17,C017,2024-02-02,Kolkata,Cement Brick,Large,800,13,10400,Cash,Physical,Wholesale,Afternoon
+18,C018,2024-02-05,Hyderabad,Fly Ash Brick,Standard,400,7,2800,Online,Distributor,Residential,Evening
+19,C019,2024-02-06,Chennai,Clay Brick,Medium,600,11,6600,Credit,Online,Commercial,Morning
+20,C020,2024-02-07,Delhi,Cement Brick,Small,1100,14,15400,Cash,Physical,Residential,Afternoon
+21,C021,2024-02-08,Mumbai,Fly Ash Brick,Large,700,9,6300,Credit,Online,Wholesale,Evening
+22,C022,2024-02-10,Bangalore,Clay Brick,Large,400,12,4800,Cash,Distributor,Commercial,Morning
+23,C023,2024-02-12,Kolkata,Cement Brick,Medium,500,13,6500,Credit,Physical,Residential,Afternoon
+24,C024,2024-02-14,Hyderabad,Fly Ash Brick,Small,800,7,5600,Cash,Online,Commercial,Evening
+25,C025,2024-02-16,Chennai,Clay Brick,Large,900,11,9900,Credit,Distributor,Residential,Morning
+26,C026,2024-02-18,Delhi,Cement Brick,Large,1000,15,15000,Cash,Online,Wholesale,Afternoon
+27,C027,2024-02-20,Mumbai,Fly Ash Brick,Standard,500,9,4500,Credit,Physical,Commercial,Evening
+28,C028,2024-02-21,Bangalore,Clay Brick,Small,1100,12,13200,Cash,Distributor,Residential,Morning
+29,C029,2024-02-22,Kolkata,Cement Brick,Medium,700,14,9800,Credit,Online,Commercial,Afternoon
+30,C030,2024-02-24,Hyderabad,Fly Ash Brick,Large,300,8,2400,Cash,Physical,Residential,Evening
+31,C031,2024-03-01,Chennai,Clay Brick,Medium,500,10,5000,Credit,Online,Wholesale,Morning
+32,C032,2024-03-02,Delhi,Cement Brick,Large,800,13,10400,Cash,Distributor,Commercial,Afternoon
+33,C033,2024-03-04,Mumbai,Fly Ash Brick,Standard,600,7,4200,Credit,Physical,Residential,Evening
+34,C034,2024-03-05,Bangalore,Clay Brick,Large,1200,12,14400,Cash,Online,Commercial,Morning
+35,C035,2024-03-07,Kolkata,Cement Brick,Medium,900,14,12600,Credit,Physical,Wholesale,Afternoon
+36,C036,2024-03-09,Hyderabad,Fly Ash Brick,Small,800,6,4800,Cash,Distributor,Residential,Evening
+37,C037,2024-03-11,Chennai,Clay Brick,Small,600,9,5400,Credit,Online,Commercial,Morning
+38,C038,2024-03-12,Delhi,Cement Brick,Large,1000,15,15000,Cash,Physical,Residential,Afternoon
+39,C039,2024-03-13,Mumbai,Fly Ash Brick,Large,400,9,3600,Credit,Online,Wholesale,Evening
+40,C040,2024-03-14,Bangalore,Clay Brick,Medium,700,10,7000,Cash,Distributor,Commercial,Morning
+41,C041,2024-03-15,Kolkata,Cement Brick,Small,1200,13,15600,Credit,Online,Residential,Afternoon
+42,C042,2024-03-17,Hyderabad,Fly Ash Brick,Standard,500,7,3500,Cash,Physical,Wholesale,Evening
+43,C043,2024-03-18,Chennai,Clay Brick,Large,400,12,4800,Credit,Distributor,Commercial,Morning
+44,C044,2024-03-20,Delhi,Cement Brick,Medium,700,14,9800,Cash,Online,Residential,Afternoon
+45,C045,2024-03-21,Mumbai,Fly Ash Brick,Small,800,6,4800,Credit,Physical,Commercial,Evening
+46,C046,2024-03-22,Bangalore,Clay Brick,Large,900,12,10800,Cash,Distributor,Residential,Morning
+47,C047,2024-03-23,Kolkata,Cement Brick,Large,1000,15,15000,Credit,Online,Wholesale,Afternoon
+48,C048,2024-03-25,Hyderabad,Fly Ash Brick,Medium,600,8,4800,Cash,Physical,Commercial,Evening
+49,C049,2024-03-27,Chennai,Clay Brick,Small,1100,10,11000,Credit,Distributor,Residential,Morning
+50,C050,2024-03-28,Delhi,Cement Brick,Medium,900,13,11700,Cash,Online,Wholesale,Afternoon

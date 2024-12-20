@@ -1,0 +1,101 @@
+Product,Size,Total Sale,Date,Location,Payment Method,Quantity
+Product 41,Size M,7416,2025-02-07 11:42:22.376163,Mumbai,UPI,5
+Product 28,Size S,1343,2025-10-25 11:42:22.376180,Chennai,UPI,3
+Product 27,Size L,8514,2024-01-12 11:42:22.376189,Bangalore,Net Banking,4
+Product 7,Size M,3494,2024-12-10 11:42:22.376196,Delhi,Debit Card,5
+Product 37,Size S,8501,2025-02-15 11:42:22.376201,Chennai,Net Banking,2
+Product 18,Size L,5291,2025-06-06 11:42:22.376208,Delhi,Credit Card,6
+Product 10,Size M,354,2025-04-09 11:42:22.376214,Delhi,UPI,9
+Product 13,Size XL,9771,2025-09-08 11:42:22.376220,Chennai,Debit Card,8
+Product 25,Size M,6728,2025-03-15 11:42:22.376226,Kolkata,Credit Card,9
+Product 29,Size XL,4647,2025-03-11 11:42:22.376231,Kolkata,Debit Card,7
+Product 17,Size L,3331,2025-01-27 11:42:22.376237,Kolkata,UPI,5
+Product 44,Size XL,7722,2025-07-03 11:42:22.376242,Mumbai,UPI,5
+Product 43,Size S,6096,2024-08-12 11:42:22.376247,Bangalore,UPI,9
+Product 42,Size S,802,2024-07-13 11:42:22.376254,Delhi,Credit Card,3
+Product 41,Size S,8718,2025-04-05 11:42:22.376259,Mumbai,UPI,3
+Product 47,Size XL,4317,2025-05-25 11:42:22.376264,Bangalore,Debit Card,8
+Product 42,Size S,3058,2025-04-23 11:42:22.376270,Chennai,Net Banking,10
+Product 7,Size L,1323,2025-12-13 11:42:22.376275,Mumbai,Net Banking,3
+Product 7,Size L,3836,2025-09-09 11:42:22.376281,Bangalore,Credit Card,7
+Product 40,Size L,3636,2025-12-03 11:42:22.376286,Chennai,Net Banking,9
+Product 50,Size L,5977,2024-05-26 11:42:22.376291,Delhi,Debit Card,1
+Product 2,Size M,985,2023-12-30 11:42:22.376296,Chennai,Net Banking,9
+Product 44,Size S,7455,2024-12-13 11:42:22.376301,Kolkata,UPI,5
+Product 41,Size M,2295,2025-11-12 11:42:22.376314,Delhi,Debit Card,10
+Product 23,Size M,4555,2025-11-06 11:42:22.376319,Kolkata,UPI,6
+Product 32,Size XL,2063,2025-02-17 11:42:22.376324,Chennai,UPI,8
+Product 32,Size XL,5628,2025-11-01 11:42:22.376329,Chennai,Net Banking,7
+Product 47,Size S,6758,2025-01-27 11:42:22.376334,Kolkata,UPI,1
+Product 31,Size L,322,2024-10-25 11:42:22.376340,Mumbai,Debit Card,1
+Product 43,Size XL,1952,2024-10-28 11:42:22.376345,Chennai,Net Banking,10
+Product 17,Size M,4454,2024-02-18 11:42:22.376350,Delhi,Net Banking,8
+Product 23,Size XL,9390,2024-04-12 11:42:22.376356,Bangalore,Credit Card,10
+Product 43,Size M,3604,2024-11-05 11:42:22.376361,Chennai,Debit Card,2
+Product 5,Size L,7796,2024-04-18 11:42:22.376366,Bangalore,Debit Card,9
+Product 5,Size S,9554,2025-12-16 11:42:22.376371,Mumbai,Credit Card,1
+Product 47,Size XL,765,2024-06-04 11:42:22.376376,Bangalore,Debit Card,7
+Product 49,Size XL,8577,2024-12-27 11:42:22.376381,Kolkata,UPI,5
+Product 28,Size XL,9803,2024-02-05 11:42:22.376386,Bangalore,Credit Card,6
+Product 39,Size L,1219,2024-04-22 11:42:22.376391,Delhi,Debit Card,1
+Product 24,Size S,7834,2024-07-21 11:42:22.376396,Bangalore,Net Banking,8
+Product 36,Size L,3356,2024-09-21 11:42:22.376401,Delhi,Credit Card,10
+Product 35,Size M,5482,2024-07-15 11:42:22.376407,Bangalore,Net Banking,5
+Product 24,Size S,4061,2024-03-14 11:42:22.376411,Bangalore,UPI,9
+Product 46,Size L,7648,2025-06-07 11:42:22.376416,Delhi,Debit Card,8
+Product 8,Size L,5913,2025-09-27 11:42:22.376421,Mumbai,UPI,8
+Product 41,Size XL,3157,2024-05-21 11:42:22.376426,Delhi,Credit Card,7
+Product 2,Size M,758,2024-05-28 11:42:22.376431,Chennai,Net Banking,8
+Product 30,Size M,9066,2025-10-08 11:42:22.376436,Mumbai,Net Banking,10
+Product 13,Size XL,8546,2025-05-11 11:42:22.376442,Delhi,UPI,3
+Product 32,Size L,6972,2025-11-08 11:42:22.376446,Chennai,Net Banking,1
+Product 35,Size M,9944,2025-07-08 11:42:22.376451,Delhi,Credit Card,2
+Product 43,Size M,3206,2025-11-15 11:42:22.376457,Chennai,Debit Card,5
+Product 6,Size S,8784,2025-12-10 11:42:22.376462,Bangalore,Credit Card,5
+Product 33,Size L,8367,2024-12-05 11:42:22.376467,Delhi,Credit Card,2
+Product 7,Size XL,9665,2024-02-03 11:42:22.376472,Kolkata,Net Banking,9
+Product 50,Size S,292,2025-03-11 11:42:22.376477,Delhi,UPI,2
+Product 46,Size L,1855,2025-02-17 11:42:22.376483,Mumbai,Net Banking,3
+Product 19,Size S,5061,2024-09-20 11:42:22.376488,Bangalore,UPI,6
+Product 3,Size L,5777,2024-09-18 11:42:22.376492,Mumbai,Debit Card,2
+Product 30,Size M,8176,2025-06-19 11:42:22.376498,Kolkata,Debit Card,2
+Product 25,Size L,5567,2024-03-11 11:42:22.376503,Mumbai,Debit Card,8
+Product 18,Size M,1648,2024-05-24 11:42:22.376508,Bangalore,Net Banking,6
+Product 1,Size M,5403,2024-06-25 11:42:22.376513,Bangalore,Credit Card,6
+Product 15,Size XL,7780,2025-08-26 11:42:22.376518,Chennai,UPI,5
+Product 4,Size S,4153,2025-12-04 11:42:22.376523,Bangalore,Debit Card,5
+Product 18,Size L,2719,2025-01-12 11:42:22.376528,Chennai,Debit Card,5
+Product 48,Size L,5044,2024-01-12 11:42:22.376533,Mumbai,UPI,4
+Product 29,Size M,1151,2025-09-19 11:42:22.376538,Chennai,Credit Card,6
+Product 49,Size XL,3892,2025-12-14 11:42:22.376543,Chennai,Credit Card,1
+Product 6,Size L,8418,2024-03-15 11:42:22.376548,Mumbai,UPI,9
+Product 33,Size L,2218,2025-02-03 11:42:22.376553,Delhi,Debit Card,9
+Product 7,Size M,1039,2024-07-18 11:42:22.376558,Kolkata,UPI,1
+Product 45,Size S,4003,2024-02-29 11:42:22.376563,Delhi,UPI,4
+Product 28,Size L,8025,2024-03-30 11:42:22.376568,Kolkata,UPI,9
+Product 2,Size M,4071,2024-11-20 11:42:22.376574,Bangalore,Net Banking,7
+Product 11,Size L,2701,2025-09-08 11:42:22.376578,Kolkata,UPI,8
+Product 6,Size L,8890,2025-11-05 11:42:22.376583,Delhi,Credit Card,1
+Product 10,Size XL,8920,2025-08-24 11:42:22.376589,Bangalore,UPI,2
+Product 42,Size M,6958,2024-05-28 11:42:22.376595,Mumbai,Net Banking,3
+Product 49,Size M,8197,2024-06-13 11:42:22.376600,Bangalore,UPI,2
+Product 6,Size XL,7479,2025-07-20 11:42:22.376605,Mumbai,Debit Card,4
+Product 39,Size XL,4745,2024-10-06 11:42:22.376611,Bangalore,Debit Card,5
+Product 35,Size S,7255,2025-01-04 11:42:22.376616,Delhi,Debit Card,8
+Product 9,Size S,4396,2024-02-02 11:42:22.376621,Delhi,UPI,8
+Product 16,Size XL,1064,2024-12-16 11:42:22.376626,Kolkata,Credit Card,10
+Product 10,Size L,7937,2024-09-19 11:42:22.376631,Bangalore,Credit Card,2
+Product 5,Size S,2460,2024-07-11 11:42:22.376636,Bangalore,Debit Card,1
+Product 7,Size XL,7252,2024-10-14 11:42:22.376641,Mumbai,Net Banking,4
+Product 23,Size M,7393,2025-06-29 11:42:22.376646,Mumbai,Credit Card,1
+Product 40,Size S,6651,2025-05-11 11:42:22.376650,Mumbai,Net Banking,4
+Product 47,Size M,4459,2024-11-23 11:42:22.376655,Chennai,Debit Card,8
+Product 13,Size XL,7378,2024-07-30 11:42:22.376660,Bangalore,Net Banking,5
+Product 10,Size M,8151,2024-02-03 11:42:22.376666,Kolkata,Debit Card,4
+Product 39,Size S,4398,2025-08-25 11:42:22.376671,Mumbai,Net Banking,8
+Product 4,Size L,2783,2024-12-21 11:42:22.376677,Bangalore,Credit Card,5
+Product 38,Size S,6002,2024-12-29 11:42:22.376682,Bangalore,Debit Card,2
+Product 50,Size M,2053,2024-09-30 11:42:22.376687,Chennai,UPI,5
+Product 12,Size M,5240,2025-01-24 11:42:22.376692,Bangalore,Net Banking,6
+Product 36,Size XL,1203,2024-01-13 11:42:22.376697,Mumbai,Debit Card,3
+Product 40,Size M,5589,2025-05-15 11:42:22.376703,Chennai,Net Banking,7
